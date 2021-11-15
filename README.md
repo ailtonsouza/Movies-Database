@@ -15,7 +15,7 @@ A estrutura de banco criada persiste os filmes assistidos, associa os gêneros p
 8. Role – A tabela possui os possíveis papeis disponíveis para um ator em um filme.
 9. ProfessionalMovie - A tabela associa um profissional a um filme e papel, através da persistência do id das respectivas entidades.
 
-## O seguinte diagrama representa o banco de dados:x
+## O seguinte diagrama representa o banco de dados:
 
 
 ![ERD with colored entities (UML notation) (1)](https://user-images.githubusercontent.com/8715196/141843218-0d409329-b446-497f-801a-ef427fa9c566.png)
